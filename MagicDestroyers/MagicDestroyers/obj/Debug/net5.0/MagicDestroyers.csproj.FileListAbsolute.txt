@@ -1,0 +1,15 @@
+/Users/toryleavitt/Projects/MagicDestroyers/MagicDestroyers/bin/Debug/net5.0/MagicDestroyers.deps.json
+/Users/toryleavitt/Projects/MagicDestroyers/MagicDestroyers/bin/Debug/net5.0/MagicDestroyers.runtimeconfig.json
+/Users/toryleavitt/Projects/MagicDestroyers/MagicDestroyers/bin/Debug/net5.0/MagicDestroyers.runtimeconfig.dev.json
+/Users/toryleavitt/Projects/MagicDestroyers/MagicDestroyers/bin/Debug/net5.0/MagicDestroyers.dll
+/Users/toryleavitt/Projects/MagicDestroyers/MagicDestroyers/bin/Debug/net5.0/ref/MagicDestroyers.dll
+/Users/toryleavitt/Projects/MagicDestroyers/MagicDestroyers/bin/Debug/net5.0/MagicDestroyers.pdb
+/Users/toryleavitt/Projects/MagicDestroyers/MagicDestroyers/obj/Debug/net5.0/MagicDestroyers.csproj.AssemblyReference.cache
+/Users/toryleavitt/Projects/MagicDestroyers/MagicDestroyers/obj/Debug/net5.0/MagicDestroyers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/toryleavitt/Projects/MagicDestroyers/MagicDestroyers/obj/Debug/net5.0/MagicDestroyers.AssemblyInfoInputs.cache
+/Users/toryleavitt/Projects/MagicDestroyers/MagicDestroyers/obj/Debug/net5.0/MagicDestroyers.AssemblyInfo.cs
+/Users/toryleavitt/Projects/MagicDestroyers/MagicDestroyers/obj/Debug/net5.0/MagicDestroyers.csproj.CoreCompileInputs.cache
+/Users/toryleavitt/Projects/MagicDestroyers/MagicDestroyers/obj/Debug/net5.0/MagicDestroyers.dll
+/Users/toryleavitt/Projects/MagicDestroyers/MagicDestroyers/obj/Debug/net5.0/ref/MagicDestroyers.dll
+/Users/toryleavitt/Projects/MagicDestroyers/MagicDestroyers/obj/Debug/net5.0/MagicDestroyers.pdb
+/Users/toryleavitt/Projects/MagicDestroyers/MagicDestroyers/obj/Debug/net5.0/MagicDestroyers.genruntimeconfig.cache
